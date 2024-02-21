@@ -1,0 +1,31 @@
+.container_code {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.btn.news {
+  background-color: hsl(5, 85%, 63%);
+}
+.btn.news:hover {
+  background-color: hsl(240, 100%, 5%);
+}
+.new_title {
+  color: hsl(35, 77%, 62%);
+}
+
+#bright {
+  font-weight: 900;
+}
+.container .title h5:hover {
+  color: hsl(35, 77%, 62%);
+}
+.container a:hover {
+  color: hsl(5, 85%, 63%);
+}
+.container h4 {
+  color: gray;
+}
+.container h5:hover {
+  color: hsl(5, 85%, 63%);
+}
